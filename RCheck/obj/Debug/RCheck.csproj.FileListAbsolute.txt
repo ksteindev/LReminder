@@ -1,0 +1,9 @@
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\bin\Debug\RCheck.exe.config
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\bin\Debug\RCheck.exe
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\bin\Debug\RCheck.pdb
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\obj\Debug\RCheck.csprojResolveAssemblyReference.cache
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\obj\Debug\RCheck.Form1.resources
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\obj\Debug\RCheck.Properties.Resources.resources
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\obj\Debug\RCheck.csproj.GenerateResource.Cache
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\obj\Debug\RCheck.exe
+C:\Users\GRISTIAN\Desktop\LDream\RCheck\RCheck\RCheck\obj\Debug\RCheck.pdb
